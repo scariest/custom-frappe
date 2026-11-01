@@ -1,0 +1,8 @@
+[
+  { "url": "https://github.com/frappe/erpnext", "branch": "${ERPNEXT_BRANCH}" },
+  { "url": "https://github.com/frappe/hrms", "branch": "${HRMS_BRANCH}" },
+  { "url": "https://github.com/frappe/insights", "branch": "${INSIGHTS_BRANCH}" },
+  { "url": "https://github.com/frappe/print_designer", "branch": "${PRINT_DESIGNER_BRANCH}" },
+  { "url": "https://github.com/defendicon/POS-Awesome-V15", "branch": "${POS_AWESOME_V15_BRANCH}" },
+  { "url": "https://github.com/frappe/builder", "branch": "${BUILDER_BRANCH}" }
+]
